@@ -31,6 +31,8 @@ To ensure a secure and reliable SSO integration between Azure AD and Wazuh, seve
 
 Here’s an in-depth, step-by-step guide for setting up Azure AD SSO for Wazuh, with detailed configurations for each part of the process:
 
+![51RBxvSK5QvnhCpoYwxRuW](https://github.com/user-attachments/assets/e0463f3b-c1fb-4487-abbc-2940e6a5e025)
+
 ---
 
 ### Step 1: Register Wazuh in Azure AD
