@@ -1,4 +1,7 @@
 ### Introduction
+
+![image](https://github.com/user-attachments/assets/897f6586-bbcf-44d0-8c28-e7367e5922c2)
+
 In today’s enterprise environments, ensuring seamless yet secure access to applications is a priority. Integrating Azure Active Directory (Azure AD) Single Sign-On (SSO) with Wazuh allows organizations to enhance user experience by enabling centralized authentication. By implementing SSO, users can access Wazuh using their Azure AD credentials, reducing the need to manage separate accounts and passwords. This integration enhances productivity, simplifies IT management, and strengthens security.
 
 ### Objectives
